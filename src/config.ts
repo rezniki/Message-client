@@ -1,0 +1,1 @@
+export const API_URL = "https://message-server.onrender.com/api";
